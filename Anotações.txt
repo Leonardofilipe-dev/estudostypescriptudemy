@@ -1,0 +1,11 @@
+1 - instalação typescrypt
+
+npm install typescript -g
+
+2 - Gerando configuração no typescrypt (Seção 02 e aula 25 explica um pouco)
+para criar use: tsc --init
+
+3- Compilar automaticamente
+
+use o comando tsc -w
+
